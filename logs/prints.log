@@ -1,0 +1,7 @@
+20:38:33.645 [main] INFO  resources.BaseTest - Driver started
+20:39:59.588 [main] INFO  resources.BaseTest - Driver started
+20:46:45.666 [main] INFO  resources.BaseTest - Driver started
+20:47:47.085 [main] INFO  resources.BaseTest - Driver started
+20:48:03.032 [main] INFO  resources.BaseTest - Driver started
+20:48:08.238 [main] INFO  resources.BaseTest - email correct
+20:48:09.266 [main] INFO  resources.BaseTest - Login matched

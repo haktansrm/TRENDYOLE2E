@@ -1,0 +1,8 @@
+20:07:00.619 [main] INFO  resources.BaseTest - Driver started
+20:07:13.183 [main] INFO  resources.BaseTest - Prices matched
+20:07:16.149 [main] INFO  resources.BaseTest - Driver started
+20:23:26.319 [main] INFO  resources.BaseTest - Driver started
+20:23:38.937 [main] INFO  resources.BaseTest - Prices matched
+20:23:42.483 [main] INFO  resources.BaseTest - Driver started
+20:23:46.477 [main] INFO  resources.BaseTest - email correct
+20:37:04.468 [main] INFO  resources.BaseTest - Driver started
