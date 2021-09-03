@@ -30,7 +30,7 @@ public class SignUpTest extends BaseTest {
         sup.signUpLoginButtonLocator();
 
         LoginPage lp = new LoginPage(driver);
-        lp.loginPageProcces("siramhaktan@gmail.com","Hak199.");
+        lp.loginPageProcces("siramhaktan@gmail.com","456852.,l");
         Assert.assertEquals(lp.validateMember(),"Giriş Yap");
         Log.info("Login matched");
 
